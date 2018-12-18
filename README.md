@@ -1,4 +1,4 @@
 # Titanic
 Titanic problem on Kaggle
 
-Using random forest algorithm
+Using random forest classifier

@@ -1,2 +1,4 @@
 # Titanic
-Titanic on Kaggle
+Titanic problem on Kaggle
+
+Using random forest algorithm
